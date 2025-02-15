@@ -1,0 +1,16 @@
+<script>start("/Users/kabelo/Desktop/Python/Python-projects-beginner-to-advanced/Sales_analysis/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("static","static",1,96,"96 B",1739606690,"15/02/2025, 10:04:50");</script>
+<script>addRow("templates","templates",1,96,"96 B",1739294787,"11/02/2025, 19:26:27");</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1739603852,"15/02/2025, 09:17:32");</script>
+<script>addRow("Branch.csv","Branch.csv",0,119,"119 B",1739204847,"10/02/2025, 18:27:27");</script>
+<script>addRow("City.csv","City.csv",0,506,"506 B",1739204946,"10/02/2025, 18:29:06");</script>
+<script>addRow("Customer_type.csv","Customer_type.csv",0,419,"419 B",1739205543,"10/02/2025, 18:39:03");</script>
+<script>addRow("Data.py","Data.py",0,520,"520 B",1739294455,"11/02/2025, 19:20:55");</script>
+<script>addRow("Extract_data.py","Extract_data.py",0,2989,"2.9 kB",1739294428,"11/02/2025, 19:20:28");</script>
+<script>addRow("Gender.csv","Gender.csv",0,357,"357 B",1739205085,"10/02/2025, 18:31:25");</script>
+<script>addRow("Graphs.py","Graphs.py",0,1848,"1.8 kB",1739294525,"11/02/2025, 19:22:05");</script>
+<script>addRow("Payment.csv","Payment.csv",0,472,"472 B",1739207414,"10/02/2025, 19:10:14");</script>
+<script>addRow("Product_line.csv","Product_line.csv",0,1091,"1.1 kB",1739205461,"10/02/2025, 18:37:41");</script>
+<script>addRow("supermarket_sales - Sheet1.csv","supermarket_sales%20-%20Sheet1.csv",0,131528,"128 kB",1739204141,"10/02/2025, 18:15:41");</script>
+<script>addRow("Website.py","Website.py",0,477,"477 B",1739294873,"11/02/2025, 19:27:53");</script>
